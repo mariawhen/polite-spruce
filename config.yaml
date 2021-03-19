@@ -128,6 +128,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=startup&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
+  domain: 'https://polite-spruce-44cc4.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
